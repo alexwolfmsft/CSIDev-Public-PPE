@@ -7,7 +7,7 @@ ms.date: 01/10/2019
 ms.topic: contributor-guide
 ms.custom: internal-contributor-guide
 ---
-# Acrolinx report
+# Acrolinx report test
 
 The Acrolinx report has been restored to the SkyEye site thanks to work by the CGA team and Acrolinx. To access the report, go to [https://aka.ms/skyeye](https://aka.ms/skyeye) and click the Acrolinx Report tile.
 

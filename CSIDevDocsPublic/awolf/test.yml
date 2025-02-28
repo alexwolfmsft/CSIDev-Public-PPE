@@ -1,1 +1,5 @@
-hello: world
+services:
+  type: object
+  title: Definition of services that comprise the application
+  minProperties: 1
+  
