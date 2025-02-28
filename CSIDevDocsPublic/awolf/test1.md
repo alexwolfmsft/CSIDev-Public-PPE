@@ -1,8 +1,8 @@
 ---
 title: Test article.
 description: This is a test article.
-author: alexwolfmsft
-ms.author: alexwolf
+author: testAuther
+ms.author: testauthor
 ms.date: 01/10/2019
 ms.topic: contributor-guide
 ms.custom: internal-contributor-guide
